@@ -9,13 +9,13 @@ This is a simple Flask demo app that counts the number of visits to the app and 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Jason-JoJo/flask-demo.git
+git clone https://github.com/Jason-JoJo/docker-compose_practice.git
 ```
 
 2. Change to the project directory:
 
 ```bash
-cd flask-demo
+cd docker-compose_practice
 ```
 
 3. Build and start the containers:
