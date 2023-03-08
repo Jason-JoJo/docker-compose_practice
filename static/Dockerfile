@@ -18,4 +18,4 @@ ENV FLASK_APP=app.py REDIS_HOST=redis
 
 EXPOSE 5000
 
-CMD ["flask", "run", "-h", "0.0.0.0"]
+CMD ["/opt/venv/bin/flask", "run", "-h", "0.0.0.0"]
